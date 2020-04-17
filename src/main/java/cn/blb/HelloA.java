@@ -7,6 +7,7 @@ public class HelloA {
 	
 		System.out.println("yyyyyy");
 		System.out.println("ccccc");
+		System.out.println("weixinsaoma");
 		
 	}
 
